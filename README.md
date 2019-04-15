@@ -7,3 +7,4 @@ Welcome to the GifTastic World of Sports!  Check out these cool sports-related g
 * jQuery
 * GIPHY API
 * AJAX
+* Bootstrap
